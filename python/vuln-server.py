@@ -9,7 +9,7 @@ import cgi , MySQLdb
 
 
 
-ROOT = "/Users/Amine/"
+ROOT = """To be changed"""
 PORT = 80
 IP   ='0.0.0.0'
 

@@ -1,11 +1,6 @@
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 import cgi , MySQLdb
 
-"""
-        Madame Mishu  propose des cours de hacking,
-        ....  Mme Mishu vous met au defi de lancer un webshell sur son serveur 
-        
-"""
 
 
 
